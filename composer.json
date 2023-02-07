@@ -1,0 +1,15 @@
+{
+    "name": "spike/spike-mvc",
+    "description": "",
+    "autoload": {
+        "psr-4": {
+            "Spike\\": "./"
+        }
+    },
+    "authors": [
+        {
+            "name": "Shahriar Shaon"
+        }
+    ],
+    "require": {}
+}
